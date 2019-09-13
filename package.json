@@ -1,0 +1,15 @@
+{
+  "name": "device-motion-app",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "expo-sensors": "5.0.1",
+    "react-native-paper": "2.16.0"
+  }
+}
